@@ -1,5 +1,5 @@
 # Cryptocurrency-Closing-Price-Prediction
-Project on Financial data
+A Project on Financial data. In this project, we made use of machine learning to build models that try to predict the closing price based a number of features
 
 # PROJECT OVERVIEW
 Crypto currency is a digital currency that can be used to buy goods and services but uses an online ledger with strong cryptography to secure online transactions. Much of the interest in these unregulated currencies is to trade for profit, with speculators at times driving prices skyward. Some of the most popular crypto currencies are Bitcoin, Ethereum, Binance coin, tether, cardano, dogecoin. Crypto currencies work using a technology called blockchain.
