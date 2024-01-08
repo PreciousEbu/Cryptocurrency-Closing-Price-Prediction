@@ -6,8 +6,9 @@ This repository contains the code and data for a project that aims to predict th
 ### Installation:
 
 #### Clone this repository:
-git clone https://github.com/cryptocurrency-closing-price-prediction.git
-Install the required Python libraries:
+[git clone https://github.com/cryptocurrency-closing-price-prediction.git](https://github.com/PreciousEbu/Cryptocurrency-Closing-Price-Prediction.git)
+
+#### Install the required Python libraries:
 pip install pandas numpy matplotlib seaborn sklearn
 Running the Code:
 
